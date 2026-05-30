@@ -10,9 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satyam-kalihari&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satyam-kalihari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-kalihari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-kalihari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-#**RoadMap.sh:**
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66969d192b17b182cb18f0b6?variant=dark" alt="roadmap.sh"/></a>
 
 ## 🏆 GitHub Trophies
