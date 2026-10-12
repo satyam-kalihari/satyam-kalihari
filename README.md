@@ -60,9 +60,6 @@ I'm interested in software engineering internships where I can contribute to rea
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66969d192b17b182cb18f0b6?variant=dark" alt="roadmap.sh"/></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=satyam-kalihari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=satyam-kalihari&icon=0&color=0)](https://visitcount.itsvg.in)
 
