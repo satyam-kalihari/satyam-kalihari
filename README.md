@@ -1,5 +1,51 @@
 # 💫 About Me:
-🔭 I’m currently working on a new official website for my college's ACM Student Chapter to streamline event registrations and member resources.<br>👯 I’m looking to collaborate on open-source web development projects or community-driven tools for students.<br>🤝 I’m looking for help with mastering advanced frontend animations and optimizing backend performance for high-traffic sites.<br>🌱 I’m currently learning backend and best practices for production ready code.<br>
+🔭# Satyam Kalihari
+
+### Software Engineering | Java · Spring Boot · SQL · Full-Stack Development
+
+I'm a Computer Science and Engineering student at Symbiosis Institute of Technology with prior software engineering internship experience. I enjoy building complete applications and working on backend APIs, databases, security, performance, and reliable software.
+
+My experience spans React and Next.js, Java and Spring Boot, relational databases, and AWS. I also use AI-assisted development tools, with an emphasis on reviewing generated code, testing behavior, and understanding the implementation.
+
+## Technical Skills
+
+- **Languages:** Java, JavaScript, TypeScript, Python, SQL
+- **Backend:** Spring Boot, Node.js, REST APIs, Socket.IO
+- **Frontend:** React, Next.js, HTML, CSS
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Cloud and tools:** AWS S3, CloudFront, Git, GitHub
+- **Engineering practices:** API debugging, testing, authentication, authorization, performance optimization
+
+## Featured Projects
+
+### DevBoard — Engineering SaaS Platform
+A multi-tenant developer productivity application focused on task management and async standups.
+
+- Java and Spring Boot backend
+- PostgreSQL data persistence
+- Kafka-based asynchronous processing and Redis integration
+- Focus on multi-tenancy, query optimization, and backend architecture
+
+[View source code](https://github.com/satyam-kalihari/DevBoard)
+
+### ACM Website — Community Platform
+A web platform associated with my college's ACM student chapter.
+
+- TypeScript-based web development
+- Focus on member resources and event workflows
+
+[View source code](https://github.com/satyam-kalihari/ACM-website)
+
+## What I'm Working Toward
+
+I'm deepening my skills in backend engineering, relational databases, distributed systems, cloud infrastructure, automated testing, and production debugging.
+
+I'm interested in software engineering internships where I can contribute to real projects, learn from experienced engineers, and build reliable software.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/satyam-kalihari-6234b0247/)
+- [GitHub](https://github.com/satyam-kalihari)
 
 
 ## 🌐 Socials:
